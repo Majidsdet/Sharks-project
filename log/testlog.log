@@ -1,0 +1,234 @@
+2022-05-04 19:30:28,162 - logger_File -INFO - Start of Execution
+2022-05-04 19:30:28,188 - logger_File -INFO - Test Execution Started
+2022-05-04 19:30:28,198 - logger_File -INFO - Test was failed
+2022-05-04 19:30:28,198 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:30:28,201 - logger_File -INFO - Test was failed
+2022-05-04 19:30:28,201 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:30:28,217 - logger_File -INFO - End of Execution
+2022-05-04 19:31:13,440 - logger_File -INFO - Start of Execution
+2022-05-04 19:31:13,466 - logger_File -INFO - Test Execution Started
+2022-05-04 19:31:13,476 - logger_File -INFO - Test was failed
+2022-05-04 19:31:13,476 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:31:13,481 - logger_File -INFO - Test was failed
+2022-05-04 19:31:13,481 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:31:13,497 - logger_File -INFO - End of Execution
+2022-05-04 19:32:20,960 - logger_File -INFO - Start of Execution
+2022-05-04 19:32:20,987 - logger_File -INFO - Test Execution Started
+2022-05-04 19:32:20,997 - logger_File -INFO - Test was failed
+2022-05-04 19:32:20,998 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:32:21,002 - logger_File -INFO - Test was failed
+2022-05-04 19:32:21,002 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:32:21,019 - logger_File -INFO - End of Execution
+2022-05-04 19:33:43,210 - logger_File -INFO - Start of Execution
+2022-05-04 19:33:43,237 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,247 - logger_File -INFO - Test was failed
+2022-05-04 19:33:43,247 - logger_File -INFO - method name: hardAssert
+2022-05-04 19:33:43,249 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,253 - logger_File -INFO - Test was failed
+2022-05-04 19:33:43,253 - logger_File -INFO - method name: softAssert
+2022-05-04 19:33:43,255 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,257 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,257 - logger_File -INFO - method name: TurquoiseColor
+2022-05-04 19:33:43,266 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,267 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,268 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,270 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,271 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,272 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,273 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,274 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,274 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,276 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,276 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,277 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,278 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,279 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,279 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,280 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,281 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,282 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,284 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,284 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,285 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,286 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,287 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,287 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,288 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,289 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,289 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,291 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,292 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,292 - logger_File -INFO - method name: blackColor
+2022-05-04 19:33:43,294 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,294 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,295 - logger_File -INFO - method name: brownColor
+2022-05-04 19:33:43,296 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,297 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,297 - logger_File -INFO - method name: goldColor
+2022-05-04 19:33:43,298 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,299 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,299 - logger_File -INFO - method name: redColor
+2022-05-04 19:33:43,301 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,302 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,303 - logger_File -INFO - method name: silverColor
+2022-05-04 19:33:43,304 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,305 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,305 - logger_File -INFO - method name: whiteColor
+2022-05-04 19:33:43,307 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,308 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,308 - logger_File -INFO - method name: testC
+2022-05-04 19:33:43,309 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,310 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,310 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,311 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,312 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,312 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,313 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,314 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,314 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,316 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,318 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,318 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,319 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,319 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,319 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,320 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,321 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,321 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,322 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,323 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,323 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,324 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,325 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,325 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,326 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,326 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,327 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,327 - logger_File -INFO - Test Execution Started
+2022-05-04 19:33:43,328 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:33:43,328 - logger_File -INFO - method name: testB
+2022-05-04 19:33:43,346 - logger_File -INFO - End of Execution
+2022-05-04 19:48:39,690 - logger_File -INFO - Start of Execution
+2022-05-04 19:48:44,817 - logger_File -INFO - Test Execution Started
+2022-05-04 19:48:49,918 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:48:49,918 - logger_File -INFO - method name: test
+2022-05-04 19:48:54,113 - logger_File -INFO - End of Execution
+2022-05-04 19:57:31,251 - logger_File -INFO - Start of Execution
+2022-05-04 19:57:36,006 - logger_File -INFO - Test Execution Started
+2022-05-04 19:57:41,088 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:57:41,088 - logger_File -INFO - method name: test
+2022-05-04 19:57:41,188 - logger_File -INFO - Test Execution Started
+2022-05-04 19:57:41,189 - logger_File -INFO - Test was passed successfully
+2022-05-04 19:57:41,190 - logger_File -INFO - method name: test
+2022-05-04 19:57:41,201 - logger_File -INFO - End of Execution
+2022-05-04 21:04:21,574 - logger_File -INFO - Start of Execution
+2022-05-04 21:04:21,599 - logger_File -INFO - Test Execution Started
+2022-05-04 21:04:21,600 - logger_File -INFO - Test Execution Started
+2022-05-04 21:04:27,708 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:04:27,709 - logger_File -INFO - method name: testTwo
+2022-05-04 21:04:27,769 - logger_File -INFO - Test was failed
+2022-05-04 21:04:27,769 - logger_File -INFO - method name: testOne
+2022-05-04 21:04:27,783 - logger_File -INFO - End of Execution
+2022-05-04 21:05:11,575 - logger_File -INFO - Start of Execution
+2022-05-04 21:05:11,598 - logger_File -INFO - Test Execution Started
+2022-05-04 21:05:11,599 - logger_File -INFO - Test Execution Started
+2022-05-04 21:05:17,306 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:05:17,307 - logger_File -INFO - method name: testOne
+2022-05-04 21:05:18,022 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:05:18,023 - logger_File -INFO - method name: testTwo
+2022-05-04 21:05:18,033 - logger_File -INFO - End of Execution
+2022-05-04 21:09:54,815 - logger_File -INFO - Start of Execution
+2022-05-04 21:09:54,840 - logger_File -INFO - Test Execution Started
+2022-05-04 21:09:54,840 - logger_File -INFO - Test Execution Started
+2022-05-04 21:10:01,452 - logger_File -INFO - Test was failed
+2022-05-04 21:10:01,453 - logger_File -INFO - method name: testOne
+2022-05-04 21:10:01,955 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:10:01,955 - logger_File -INFO - method name: testTwo
+2022-05-04 21:10:01,973 - logger_File -INFO - End of Execution
+2022-05-04 21:11:03,786 - logger_File -INFO - Start of Execution
+2022-05-04 21:11:03,811 - logger_File -INFO - Test Execution Started
+2022-05-04 21:11:03,812 - logger_File -INFO - Test Execution Started
+2022-05-04 21:11:04,365 - logger_File -INFO - Test was failed
+2022-05-04 21:11:04,366 - logger_File -INFO - method name: testOne
+2022-05-04 21:11:10,058 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:11:10,058 - logger_File -INFO - method name: testTwo
+2022-05-04 21:11:10,112 - logger_File -INFO - End of Execution
+2022-05-04 21:11:53,401 - logger_File -INFO - Start of Execution
+2022-05-04 21:11:53,426 - logger_File -INFO - Test Execution Started
+2022-05-04 21:11:53,426 - logger_File -INFO - Test Execution Started
+2022-05-04 21:12:01,295 - logger_File -INFO - Test was failed
+2022-05-04 21:12:01,295 - logger_File -INFO - method name: testOne
+2022-05-04 21:12:01,343 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:12:01,343 - logger_File -INFO - method name: testTwo
+2022-05-04 21:12:01,362 - logger_File -INFO - End of Execution
+2022-05-04 21:15:41,869 - logger_File -INFO - Start of Execution
+2022-05-04 21:15:41,893 - logger_File -INFO - Test Execution Started
+2022-05-04 21:15:48,094 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:15:48,094 - logger_File -INFO - method name: testOne
+2022-05-04 21:15:48,108 - logger_File -INFO - End of Execution
+2022-05-04 21:18:01,853 - logger_File -INFO - Start of Execution
+2022-05-04 21:18:01,877 - logger_File -INFO - Test Execution Started
+2022-05-04 21:18:01,878 - logger_File -INFO - Test Execution Started
+2022-05-04 21:18:08,853 - logger_File -INFO - Test was failed
+2022-05-04 21:18:08,854 - logger_File -INFO - method name: testOne
+2022-05-04 21:18:08,907 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:18:08,907 - logger_File -INFO - method name: testTwo
+2022-05-04 21:18:08,925 - logger_File -INFO - End of Execution
+2022-05-04 21:19:46,379 - logger_File -INFO - Start of Execution
+2022-05-04 21:19:46,404 - logger_File -INFO - Test Execution Started
+2022-05-04 21:19:46,412 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:19:46,413 - logger_File -INFO - method name: test
+2022-05-04 21:19:46,421 - logger_File -INFO - Test Execution Started
+2022-05-04 21:19:52,081 - logger_File -INFO - Test Execution Started
+2022-05-04 21:19:52,786 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:19:52,787 - logger_File -INFO - method name: testOne
+2022-05-04 21:19:52,790 - logger_File -INFO - Test Execution Started
+2022-05-04 21:19:57,199 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:19:57,199 - logger_File -INFO - method name: test
+2022-05-04 21:19:57,622 - logger_File -INFO - Test was passed successfully
+2022-05-04 21:19:57,622 - logger_File -INFO - method name: testTwo
+2022-05-04 21:19:57,633 - logger_File -INFO - End of Execution
+2022-05-04 22:09:35,346 - logger_File -INFO - Start of Execution
+2022-05-04 22:09:35,369 - logger_File -INFO - Test Execution Started
+2022-05-04 22:09:35,377 - logger_File -INFO - Test was passed successfully
+2022-05-04 22:09:35,377 - logger_File -INFO - method name: test
+2022-05-04 22:09:35,384 - logger_File -INFO - Test Execution Started
+2022-05-04 22:09:41,174 - logger_File -INFO - Test Execution Started
+2022-05-04 22:09:42,156 - logger_File -INFO - Test was passed successfully
+2022-05-04 22:09:42,157 - logger_File -INFO - method name: testOne
+2022-05-04 22:09:42,159 - logger_File -INFO - Test Execution Started
+2022-05-04 22:09:46,254 - logger_File -INFO - Test was passed successfully
+2022-05-04 22:09:46,255 - logger_File -INFO - method name: test
+2022-05-04 22:09:47,456 - logger_File -INFO - Test was passed successfully
+2022-05-04 22:09:47,456 - logger_File -INFO - method name: testTwo
+2022-05-04 22:09:47,467 - logger_File -INFO - End of Execution
+2022-05-05 19:32:43,441 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:32:43,492 - logger_File -INFO - logo is present
+2022-05-05 19:47:03,228 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:47:03,290 - logger_File -INFO - logo is present
+2022-05-05 19:47:08,005 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:48:40,155 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:49:46,923 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:49:52,331 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:49:57,776 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:03,285 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:09,001 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:14,581 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:20,136 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:25,627 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:31,081 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:50:36,513 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:54:14,548 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:54:14,610 - logger_File -INFO - logo is present
+2022-05-05 19:54:19,571 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:55:09,538 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:58:08,070 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:58:13,571 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 19:58:13,613 - logger_File -INFO - logo is present
+2022-05-05 20:02:48,097 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 20:02:48,830 - logger_File -INFO - logo is present
+2022-05-05 20:28:21,360 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 20:31:00,780 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 20:31:00,876 - logger_File -INFO - logo is present
+2022-05-05 20:31:31,160 - logger_File -INFO - user navigate to Hotel Website
+2022-05-05 20:31:31,229 - logger_File -INFO - logo is present

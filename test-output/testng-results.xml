@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Lab Session Practice" duration-ms="7782" started-at="2022-05-06T01:40:40Z" finished-at="2022-05-06T01:40:48Z">
+    <groups>
+    </groups>
+    <test name="Practice Session" duration-ms="7782" started-at="2022-05-06T01:40:40Z" finished-at="2022-05-06T01:40:48Z">
+      <class name="exercise.testNG.ParallelExecutionPractice">
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:exercise.testNG.ParallelExecutionPractice@3745e5c6]" name="testTwo" duration-ms="5770" started-at="2022-05-06T01:40:40Z" finished-at="2022-05-06T01:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:exercise.testNG.ParallelExecutionPractice@3745e5c6]" name="testOne" duration-ms="5771" started-at="2022-05-06T01:40:40Z" finished-at="2022-05-06T01:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testFour()[pri:0, instance:exercise.testNG.ParallelExecutionPractice@3745e5c6]" name="testFour" duration-ms="6204" started-at="2022-05-06T01:40:40Z" finished-at="2022-05-06T01:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:exercise.testNG.ParallelExecutionPractice@3745e5c6]" name="testThree" duration-ms="7762" started-at="2022-05-06T01:40:40Z" finished-at="2022-05-06T01:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+      </class> <!-- exercise.testNG.ParallelExecutionPractice -->
+    </test> <!-- Practice Session -->
+  </suite> <!-- Lab Session Practice -->
+</testng-results>
