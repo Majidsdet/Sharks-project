@@ -118,7 +118,7 @@ public class Base {
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().pageLoadTimeout(Base.getPageLoadTimeOut(), TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(Base.getImpWait(), TimeUnit.SECONDS);
-		
+	
 		
 		
 		driver.get(getURL());
@@ -130,5 +130,9 @@ public class Base {
 	public static void tearDown() {
 		driver.close();
 		driver.quit();
+		
+		driver.getPageSource();
 	}
+	
+	
 }
